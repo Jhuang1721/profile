@@ -53,13 +53,15 @@ li {
 }
 
 #sidebar {
-    background-color:  #384047;
+    background-color: #191919 /*#384047*/;
     position: fixed;
     left: 0px;
     top: 0px;
     bottom: 0px;
     width: 120px;
     text-align: center;
+    opacity: 0.95;
+
 }
 
 .container-fluid {
